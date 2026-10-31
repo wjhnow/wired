@@ -1,6 +1,5 @@
 ---
-title: "Super Intelligence or Artificial intelligence? Why the label changes
-  nothing"
+title: Super Intelligence or Artificial intelligence? Why the label changes nothing
 slug: super-intelligence-is-still-just-a-tool
 date: 2026-10-15
 draft: false
@@ -20,7 +19,7 @@ categories:
   - AI
   - Technology
 sources:
-  - name: Original opinion
+  - name: Original essay, no external sources
 ---
 # Super CEO? Come on
 
