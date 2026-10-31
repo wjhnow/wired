@@ -17,7 +17,7 @@ tags:
 categories:
   - Health
 sources:
-  - name: "Author original article "
+  - name: Original essay, no external sources
 ---
 # Why Cleaning Glasses With Your T-Shirt Is Ruining Them (And the 1-Minute Fix That Works)
 
