@@ -58,8 +58,11 @@
   "publisher": {
     "@type": "Organization",
     "name": "What Just Happened NOW",
-    "url": "https://wjhnow.com/"
+    "url": "https://wjhnow.com/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": {{ "favicon.png" | absURL | jsonify | safeJS }}
+    }
   }
-}
 </script>
 {{- end }}
