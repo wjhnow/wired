@@ -2,10 +2,13 @@
 title: "Hidden Dimensions: Why Human Vision Only Sees a Window of Reality"
 slug: hidden-dimensions-vision
 date: 2026-10-31
-draft: true
+draft: false
 description: Why can’t we see hidden dimensions? Human vision has min and max
   limits of scale, angle and time. Learn how our eyes show only a small window
   of reality.
+image: /img/do-we-really-see-everything.png
+image_alt: Human eye between a tiny dust speck beside a hair (MIN 0.1 mm) and a
+  giant galaxy (MAX 200°), asking “Do we really see everything?”
 author: Mr. JH
 tags:
   - hidden dimension
@@ -43,7 +46,7 @@ That is why microscope was needed. Microscope did not invent new reality, it jus
 
 This also connects to another strange thing about eyes. We have a blind spot where optic nerve leaves the eye. There are no photoreceptors there. So a gap in your vision — about 10 times width of full moon, located roughly 15 degrees away from center of your gaze — is actually missing. But you never notice it. Why? Because brain fills it in with best guess (and with two eyes open, the other eye also covers it).
 
-I wrote about this in detail here: https://wjhnow.com/p/blind-spot-hidden-dimensions/
+I wrote about this in detail here: [https://wjhnow.com/p/blind-spot-hidden-dimensions/](https://wjhnow.com/p/blind-spot-hidden-dimensions/)
 
 So the blind spot shows something important: even inside our window, brain hides the gap. What we see is not raw.
 
@@ -69,7 +72,7 @@ Light takes time to travel. So you never see present. You see past. Even across 
 
 Think about this: Someone 2,000 light-years away looking at Earth right now would not see us. They would see Roman Empire. Because light that bounced off Roman soldiers 2,000 years ago is only now reaching them. We are broadcasting our past without knowing.
 
-I broke this down with calculation here: https://wjhnow.com/p/distant-eyes-what-someone-out-there-2000-light-years-away-would-see-when-they-look-at-earth/
+I broke this down with calculation here: [https://wjhnow.com/p/distant-eyes-what-someone-out-there-2000-light-years-away-would-see-when-they-look-at-earth/](https://wjhnow.com/p/distant-eyes-what-someone-out-there-2000-light-years-away-would-see-when-they-look-at-earth/)
 
 So too far = too old.
 
@@ -83,7 +86,7 @@ But you don't see upside-down world. Why? Because brain flips it back. Brain lea
 
 So you never see what eye sees. You see what brain tells you eye sees.
 
-I explained optics of this here: https://wjhnow.com/p/why-the-image-in-your-eye-is-upside-down/
+I explained optics of this here: [https://wjhnow.com/p/why-the-image-in-your-eye-is-upside-down/](https://wjhnow.com/p/why-the-image-in-your-eye-is-upside-down/)
 
 This means our vision has three layers of editing:
 
