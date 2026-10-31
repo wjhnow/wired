@@ -3,9 +3,8 @@ title: Super Intelligence or AI? Why the Label Changes Nothing
 slug: super-intelligence-is-still-just-a-tool
 date: 2026-10-15
 draft: false
-description: Trump’s order rebranded AI as “Super Intelligence.” But calling it
-  SI doesn’t make the machine the boss. A clear argument for why humans must
-  stay in charge.
+description: Calling AI “Super Intelligence” doesn’t make the machine the boss.
+  A clear argument for why humans must stay in charge.
 image: /img/human-boss-injecting-data-into-passive-ai-robot.jpeg
 image_alt: Illustration of a powerful AI robot standing behind a human CEO at a
   desk, with the human holding the keys to the office
