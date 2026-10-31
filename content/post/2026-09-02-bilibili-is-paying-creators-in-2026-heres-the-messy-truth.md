@@ -1,9 +1,10 @@
 ---
-title: "Bilibili Monetization 2026: 1,000 Follower Rule, Payouts & The Catch"
+title: "Bilibili Monetization 2026: Rules, Payouts and the Catch"
+slug: bilibili-monetization-rules-payouts
 date: 2026-09-02
 draft: false
-description: 'Bilibili Monetization 2026: Requirements, Payouts, and Why the
-  Dashboard is "Cooked" for Global Creators'
+description: "Bilibili’s 2026 creator rules: the 1,000-follower requirement,
+  what it pays, and the catch for creators outside China."
 image: /img/bilibili.jpeg
 author: Mr Wnow
 tags:
