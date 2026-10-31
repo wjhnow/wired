@@ -1,6 +1,6 @@
 baseURL = "https://wjhnow.com"
 title = "What Just Happened NOW"
-languageCode = "en-us"
+locale = "en-us"
 
 enableRobotsTXT = true
 
