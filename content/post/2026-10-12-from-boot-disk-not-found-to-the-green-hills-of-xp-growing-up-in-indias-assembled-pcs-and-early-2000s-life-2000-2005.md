@@ -3,9 +3,8 @@ title: "Boot Disk Not Found: Growing Up With India’s Assembled PCs"
 slug: boot-disk-to-xp-bliss-assembled-pc-india-2000-2005
 date: 2026-10-12
 draft: false
-description: From 'Boot Disk Not Found' to XP Bliss — real memories of growing
-  up with assembled PCs, Windows 98 floppy installs, cyber cafes and dial-up in
-  India (2000-2005).
+description: Real memories of assembled PCs, Windows 98 floppy installs, cyber
+  cafes and dial-up in India, from Boot Disk Not Found to XP Bliss (2000-2005).
 image: /img/`boot-disk-not-found-to-windows-xp-bliss-assembled-pc-india-2000-2005.jpeg
 image_alt: From Boot Disk Not Found error to Windows XP Bliss wallpaper -
   nostalgic collage of early 2000s India computer life with dusty beige
