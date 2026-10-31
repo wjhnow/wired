@@ -18,7 +18,7 @@ tags:
 categories:
   - Science
 sources:
-  - name: from original author
+  - name: Original essay, no external sources
 ---
 # Our Eyes See According to the Scale of Our Views: The Min and Max Limit of Human Vision
 
