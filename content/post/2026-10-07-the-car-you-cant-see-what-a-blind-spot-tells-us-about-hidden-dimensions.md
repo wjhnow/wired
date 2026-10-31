@@ -1,5 +1,5 @@
 ---
-title: "The Car You Can't See: What a Blind Spot Tells Us About Hidden Dimensions"
+title: "The Car You Can’t See: A Blind Spot and Hidden Dimensions"
 slug: blind-spot-hidden-dimensions
 date: 2026-10-07
 draft: false
@@ -33,7 +33,7 @@ sources:
 
 Every driver in Bahrain knows this. You are on the Budaiya Highway or the Janabiyah highway, you check the mirror, road looks clear, you start to move left, and suddenly, *peeeen*, a horn. A Hilux or a Land Cruiser was there the whole time, right in your blind spot.
 
-If this is interesting, you should also read: "Did You Know? Dark Matter & Dark Energy: Why We Only See 5% of the Universe" — https://wjhnow.com/p/dark-matter-dark-energy-5-percent-universe/
+If this is interesting, you should also read: "Did You Know? Dark Matter & Dark Energy: Why We Only See 5% of the Universe" — [https://wjhnow.com/p/dark-matter-dark-energy-5-percent-universe/](https://wjhnow.com/p/dark-matter-dark-energy-5-percent-universe/)
 
 It was always real. You just couldn't see it from where you were sitting.
 
