@@ -72,7 +72,7 @@ Light takes time to travel. So you never see present. You see past. Even across 
 
 Think about this: Someone 2,000 light-years away looking at Earth right now would not see us. They would see Roman Empire. Because light that bounced off Roman soldiers 2,000 years ago is only now reaching them. We are broadcasting our past without knowing.
 
-I broke this down with calculation here: [https://wjhnow.com/p/distant-eyes-what-someone-out-there-2000-light-years-away-would-see-when-they-look-at-earth/](https://wjhnow.com/p/distant-eyes-what-someone-out-there-2000-light-years-away-would-see-when-they-look-at-earth/)
+I broke this down with calculation here: [What Someone Out There, 2,000 Light-Years Away, Would See When They Look at Earth](https://wjhnow.com/p/distant-eyes-what-someone-out-there-2000-light-years-away-would-see-when-they-look-at-earth/) 
 
 So too far = too old.
 
