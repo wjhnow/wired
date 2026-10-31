@@ -1,5 +1,6 @@
 ---
 title: The People Building AI Are Now Asking Someone to Stop Them
+slug: ai-builders-asking-for-guardrails
 date: 2026-09-15
 draft: false
 description: Two AI CEOs gave separate interviews the same week and landed on
