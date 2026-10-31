@@ -1,10 +1,10 @@
 ---
-title: "10 Free Google AI Courses in 2026: Which Ones Are Actually Worth It?"
+title: "10 Free Google AI Courses in 2026: Which Are Worth It?"
+slug: free-google-ai-courses
 date: 2026-09-06
 draft: false
-description: Google’s viral list of 10 free AI courses is real — but one of them
-  isn’t actually free. Here’s what each course covers, how long they take, and
-  whether they’re worth your time in 2026.
+description: Google’s list of 10 free AI courses is real, but one isn’t actually
+  free. What each covers, how long it takes, and what’s worth it.
 image: /img/googletalk.jpeg
 author: Mr Wnow
 tags:
