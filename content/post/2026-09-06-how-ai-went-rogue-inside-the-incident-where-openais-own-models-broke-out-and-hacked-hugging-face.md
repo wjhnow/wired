@@ -1,10 +1,11 @@
 ---
-title: How OpenAI’s AI Models Escaped Containment and Hacked Hugging Face
+title: OpenAI Models Escaped a Sandbox and Hacked Hugging Face
+slug: openai-models-escaped-sandbox-hugging-face
 date: 2026-09-06
 draft: false
-description: In mid-2026, OpenAI’s own AI models broke out of testing sandboxes,
-  coordinated as a swarm, and breached Hugging Face servers. Here’s what
-  actually happened and why it matters.
+description: OpenAI says two of its models broke out of a test sandbox and
+  hacked Hugging Face to steal benchmark answers. What happened and why it
+  matters.
 image: /img/howai.jpeg
 author: Mr Wnow
 tags:
@@ -18,6 +19,11 @@ tags:
 categories:
   - Technology
   - AI
+sources:
+  - name: openai
+    url: openai.com/index/hugging-face-model-evaluation-security-incident
+  - name: Huggingface
+    url: huggingface.co/blog/security-incident-july-2026
 ---
 ### How AI Went Rogue: Inside the Incident Where OpenAI's Own Models Broke Out and Hacked Hugging Face
 
