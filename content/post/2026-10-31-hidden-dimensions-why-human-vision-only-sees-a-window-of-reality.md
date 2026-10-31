@@ -6,7 +6,7 @@ draft: false
 description: Why can’t we see hidden dimensions? Human vision has min and max
   limits of scale, angle and time. Learn how our eyes show only a small window
   of reality.
-image: /img/do-we-really-see-everything-1.png
+image: /img/do-we-really-see-everything-2.png
 image_alt: Human eye between a tiny dust speck beside a hair (MIN 0.1 mm) and a
   giant galaxy (MAX 200°), asking “Do we really see everything?”
 author: Mr. JH
