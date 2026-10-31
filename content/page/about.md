@@ -51,4 +51,4 @@ I'm the tech guy. Gadgets, AI, and all the "how does this actually work" stuff. 
 
 — The WJH.now Team
 ### Editorial Note:
-"To keep the focus entirely on the facts and protect our writers' privacy, the WJH.now team uses editorial pen names and illustrated avatars. Every fact we publish is rigorously researched and verified against credible primary sources. Articles based on outside research link to their sources. Original essays are marked as such.”
+"We research what we publish and check it against credible sources wherever we rely on them. Articles based on outside research link to their sources. Original essays are marked as such.”
