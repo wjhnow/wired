@@ -1,8 +1,10 @@
 ---
 title: Did you know? Boiling in space is backwards
+slug: did-you-know-boiling-in-space-is-backwards
 date: 2026-07-01
 draft: false
-description: Ok this space boiling thing is actually insane
+description: In the vacuum of space, water boils at room temperature and freezes
+  at the same time. The physics behind the strange backwards effect.
 image: /img/boiling.jpeg
 author: Mr. JH
 tags:
