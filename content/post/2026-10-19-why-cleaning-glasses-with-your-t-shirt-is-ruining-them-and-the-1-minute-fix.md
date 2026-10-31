@@ -1,5 +1,5 @@
 ---
-title: Why Cleaning Glasses With Your T-Shirt Is Ruining Them (And the 1-Minute Fix)
+title: How to Clean Glasses Properly (Not With a T-Shirt)
 slug: how-to-clean-glasses-properly
 date: 2026-10-19
 draft: false
