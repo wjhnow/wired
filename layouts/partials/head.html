@@ -5,6 +5,22 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+{{- /* Homepage preview image: use the hero image of the newest post.
+       The theme only prints og:image from the current page's own `image:` front matter,
+       and the homepage has none, so link previews showed no image. */ -}}
+{{- if and .IsHome (not .Params.image) }}
+  {{- with where (where .Site.RegularPages "Section" "post") "Params.image" "!=" nil }}
+    {{- with index .ByDate.Reverse 0 }}
+      {{- $latest := . }}
+      {{- $image := partial "helper/image" (dict "Image" $latest.Params.image "Resources" $latest.Resources "Context" $latest) }}
+      {{- if $image }}
+<meta property='og:image' content='{{ absURL $image.Permalink }}' />
+<meta name="twitter:card" content="{{ site.Params.opengraph.twitter.card | default "summary_large_image" }}">
+<meta name="twitter:image" content='{{ absURL $image.Permalink }}' />
+      {{- end }}
+    {{- end }}
+  {{- end }}
+{{- end }}
 {{- if .IsHome }}
 <script type="application/ld+json">
 {
