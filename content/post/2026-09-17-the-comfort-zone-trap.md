@@ -1,11 +1,10 @@
 ---
-title: The Comfort zone Trap
-slug: The Comfort zone Trap
+title: "The Comfort Zone Trap: Why Safe Feels Stuck"
+slug: the-comfort-zone-trap
 date: 2026-09-17
 draft: false
-description: We think comfort means feeling safe. But what if comfort is a wall
-  that blocks real life? Learn how rethinking comfort as a threshold, not a
-  hiding place, can help you grow.
+description: We think comfort means feeling safe. What if it’s a wall blocking
+  real life? Why comfort works better as a threshold than a hiding place.
 image: /img/2026-09-17_comfort_zone.jpeg
 image_alt: "Woman on a couch looking at a laptop popup reading 'The Daily Loop:
   Wake, Work, Nap, Sleep, Repeat,' symbolizing routine and comfort zone."
@@ -22,7 +21,6 @@ categories:
   - Psychology
 sources:
   - name: "Culley, S. (2015). Comfort: bodies and their boundaries"
-    undefined: "Culley, S. (2015). Comfort: bodies and their boundaries"
     url: https://eprints.kingston.ac.uk/29964/
 ---
 The Question Nobody Asks
