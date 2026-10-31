@@ -34,7 +34,7 @@
 </script>
 {{- end }}
 
-{{- if and .IsPage (eq .Kind "page") (not .IsHome) }}
+{{- if and .IsPage (eq .Section "post") }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
