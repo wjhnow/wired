@@ -1,5 +1,5 @@
 ---
-title: "Hidden Dimensions: Why Human Vision Only Sees a Window of Reality"
+title: "Hidden Dimensions: Why We See Only a Sliver of Reality"
 slug: hidden-dimensions-vision
 date: 2026-10-31
 draft: false
