@@ -1,6 +1,5 @@
 ---
-title: "From 'Boot Disk Not Found' to the Green Hills of XP: Growing Up in
-  India's Assembled PCs and Early 2000s Life (2000-2005)"
+title: "Boot Disk Not Found: Growing Up With India’s Assembled PCs"
 slug: boot-disk-to-xp-bliss-assembled-pc-india-2000-2005
 date: 2026-10-12
 draft: false
