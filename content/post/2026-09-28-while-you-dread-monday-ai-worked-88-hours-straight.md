@@ -3,8 +3,8 @@ title: While You Dread Monday, AI Worked 88 Hours Straight
 slug: openai-navier-stokes-88-hours-ai-secret-language
 date: 2026-09-28
 draft: false
-description: OpenAI says 10,000 AI agents solved part of Navier-Stokes in 88
-  hours. Meanwhile, other AIs invented a secret language humans can't read.
+description: OpenAI says 10,000 AI agents worked 88 hours on part of
+  Navier-Stokes. What the claim shows, and what it doesn’t prove yet.
 image: /img/openai-navier-stokes-88-hours-ai-secret-language.jpeg
 image_alt: "Hand-drawn sketch split: left human tired at Sunday night desk,
   right small robots solving fluid flow equations in warm ink style"
