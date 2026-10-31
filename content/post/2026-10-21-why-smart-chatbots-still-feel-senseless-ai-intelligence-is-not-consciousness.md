@@ -1,5 +1,5 @@
 ---
-title: "Why Smart Chatbots Still Feel Senseless: AI Intelligence Is Not Consciousness"
+title: "AI Chatbots Aren’t Conscious: Intelligence Isn’t Feeling"
 slug: ai-chatbots-not-conscious
 date: 2026-10-21
 draft: false
