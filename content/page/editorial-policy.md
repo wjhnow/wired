@@ -11,7 +11,7 @@ Our writers use editorial pen names (Mr. JH for science, Mr. Wnow for tech) and 
 ## How We Research
 
 - We start from primary sources: research papers, official agency releases, and original data.
-- Every article ends with direct links to the sources it relies on, so you can check us.
+- Articles based on outside research end with direct links to their sources, so you can check us. Original essays are marked as such.
 - We prefer the original study or announcement over a news write-up of it.
 - When something is uncertain, early-stage, or debated, we say so instead of presenting it as settled.
 
