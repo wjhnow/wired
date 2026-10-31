@@ -1,6 +1,6 @@
 ---
-title: "Distant Eyes: What Someone Out There, 2,000 Light-Years Away, Would See
-  When They Look at Earth"
+title: "Distant Eyes: What 2,000 Light-Years Away Sees of Earth"
+slug: distant-eyes-earth-2000-light-years
 date: 2026-09-20
 draft: false
 description: Light takes time to travel, so someone 2,000 light-years away would
@@ -16,21 +16,16 @@ tags:
   - Time perception
   - wjhnow
 categories:
-  - extraterrestrial life
   - Space
   - Science
 sources:
   - name: Trends in Cognitive Sciences
-    undefined: Hogendoorn, H. (2021)
     url: https://doi.org/10.1016/j.tics.2021.11.003
   - name: IMBIE study in Scientific Data
-    undefined: IMBIE study in Scientific Data
     url: https://theconversation.com/theconversation.com/what-youre-seeing-right-now-is-the-past-so-your-brain-is-predicting-the-present-131913
   - name: ​Al-Khalili, J.
-    undefined: ​Al-Khalili, J.
     url: https://bigthink.com/?p=593499
   - name: ScienceABC
-    undefined: ScienceABC
     url: https://www.scienceabc.com/nature/universe/what-if-our-universe-is-a-hologram
 ---
 Every clear night you look up at the stars and feel like you're seeing them as they are right now. You're not, because you're actually seeing old news.
