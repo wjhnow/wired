@@ -2,9 +2,8 @@
 title: The People Building AI Are Now Asking Someone to Stop Them
 date: 2026-09-15
 draft: false
-description: "Two AI CEOs gave separate interviews the same week — and both
-  landed on the same warning. Not outsiders this time. The builders themselves
-  are asking for guardrails. "
+description: Two AI CEOs gave separate interviews the same week and landed on
+  the same warning. The builders themselves want guardrails.
 image: /img/2026-09-15_AI_warning.jpeg
 author: Mr Wnow
 tags:
