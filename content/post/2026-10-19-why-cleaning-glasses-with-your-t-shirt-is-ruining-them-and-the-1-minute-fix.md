@@ -3,9 +3,8 @@ title: How to Clean Glasses Properly (Not With a T-Shirt)
 slug: how-to-clean-glasses-properly
 date: 2026-10-19
 draft: false
-description: Stop ruining your glasses by wiping them on your t-shirt. Learn why
-  this habit causes scratches and static, plus the simple 1-minute cleaning
-  method with dish soap and microfiber that actually works.
+description: Wiping lenses on your t-shirt causes scratches and static. Here’s
+  the 1-minute fix with dish soap and a microfiber cloth that actually works.
 image: /img/`t-shirt-ruining-glasses-before-after.jpeg
 image_alt: Glasses lens damage from t-shirt cleaning vs properly cleaned lenses
 author: Mr. JH
