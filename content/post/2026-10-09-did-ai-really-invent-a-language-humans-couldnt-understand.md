@@ -1,5 +1,5 @@
 ---
-title: Did AI Really Invent a Language Humans Couldn't Understand?
+title: Did AI Invent a Language Humans Couldn’t Understand?
 slug: did-ai-invent-language-humans-couldnt-understand
 date: 2026-10-09
 draft: false
@@ -39,7 +39,7 @@ When I first read online that two AI chatbots had started talking to each other 
 
 You know the headlines. "AI creates its own secret language." "Facebook pulls the plug on rogue robots." 
 
-Rela)ted read: "While You Dread Monday, AI Worked 88 Hours Straight" — https://wjhnow.com/p/openai-navier-stokes-88-hours-ai-secret-language/
+Rela)ted read: "While You Dread Monday, AI Worked 88 Hours Straight" — [https://wjhnow.com/p/openai-navier-stokes-88-hours-ai-secret-language/](https://wjhnow.com/p/openai-navier-stokes-88-hours-ai-secret-language/)
 
 For a minute, I actually felt a chill. Like, are we watching the first chapter of something we won't be able to undo?
 
