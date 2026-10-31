@@ -17,7 +17,7 @@ Our writers use editorial pen names (Mr. JH for science, Mr. Wnow for tech) and 
 
 ## How We Use AI
 
-We use AI tools to help with research and drafting. Every article is reviewed, fact-checked against its sources, and edited by a human before it is published. AI tools do not publish anything on their own.
+We use AI tools to help with research and drafting. Every article is reviewed and edited by a human before it is published, and facts are checked against their sources wherever an article relies on them. Original essays are marked as such. AI tools do not publish anything on their own.
 
 ## What We Don't Do
 
