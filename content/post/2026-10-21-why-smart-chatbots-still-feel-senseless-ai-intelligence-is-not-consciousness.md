@@ -3,10 +3,9 @@ title: "AI Chatbots Aren’t Conscious: Intelligence Isn’t Feeling"
 slug: ai-chatbots-not-conscious
 date: 2026-10-21
 draft: false
-description: Chatbots can write poetry and claim emotions, yet that doesn’t mean
-  they feel anything. Explore why intelligence ≠ consciousness, the hard
-  problem, and what recent research from Anthropic, Hinton, and philosophers
-  really shows.
+description: Chatbots can write poetry and claim emotions, but that doesn’t mean
+  they feel anything. Why intelligence isn’t consciousness, and what researchers
+  say.
 image: /img/ai-chatbots-intelligence-vs-consciousness.jpg
 image_alt: Robot chatbot saying ‘I feel sad’ faces a human with a glowing brain
   and a question mark between them, illustrating the difference between AI
