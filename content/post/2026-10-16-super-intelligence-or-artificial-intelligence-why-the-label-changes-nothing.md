@@ -1,5 +1,5 @@
 ---
-title: Super Intelligence or Artificial intelligence? Why the label changes nothing
+title: Super Intelligence or AI? Why the Label Changes Nothing
 slug: super-intelligence-is-still-just-a-tool
 date: 2026-10-15
 draft: false
