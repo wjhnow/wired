@@ -46,7 +46,7 @@ That is why microscope was needed. Microscope did not invent new reality, it jus
 
 This also connects to another strange thing about eyes. We have a blind spot where optic nerve leaves the eye. There are no photoreceptors there. So a gap in your vision — about 10 times width of full moon, located roughly 15 degrees away from center of your gaze — is actually missing. But you never notice it. Why? Because brain fills it in with best guess (and with two eyes open, the other eye also covers it).
 
-I wrote about this in detail here: [https://wjhnow.com/p/blind-spot-hidden-dimensions/](https://wjhnow.com/p/blind-spot-hidden-dimensions/)
+I wrote about this in detail here: [What a Blind Spot Tells Us About Hidden Dimensions]([https://wjhnow.com/p/blind-spot-hidden-dimensions](https://wjhnow.com/p/blind-spot-hidden-dimensions/)) 
 
 So the blind spot shows something important: even inside our window, brain hides the gap. What we see is not raw.
 
