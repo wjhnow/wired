@@ -1079,5 +1079,75 @@ img.responsive,
   color: #a8481f !important;
 }
 
+/* ===== WIRED-style flat homepage cards ===== */
+.article-list article,
+.article-list article:nth-child(odd),
+.article-list article:nth-child(even) {
+  background: transparent !important;
+  padding: 1.6rem 0 !important;
+}
+
+.article-list article + article {
+  border-top: 1px solid #111 !important;
+}
+
+.article-list .article-image,
+.article-list .featured-image {
+  margin-bottom: 1rem !important;
+}
+
+.article-list .article-image img {
+  max-height: 340px !important;
+}
+
+/* Category label above the headline: small mono capitals */
+.article-list .article-category {
+  display: block !important;
+  margin: 0 0 0.5rem 0 !important;
+}
+
+.article-list .article-category a,
+.article-list .article-category span {
+  background: transparent !important;
+  border: 0 !important;
+  padding: 0 !important;
+  color: #111 !important;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace !important;
+  font-size: 1.15rem !important;
+  font-weight: 400 !important;
+  font-variant: normal !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.14em !important;
+}
+
+/* Tighter headline and accent line */
+.article-list article .article-title,
+.article-list article h2 a {
+  font-size: 2.6rem !important;
+  line-height: 1.2 !important;
+  margin: 0 0 0.3rem 0 !important;
+}
+
+.article-list article .article-title::after,
+.article-list article h2::after {
+  width: 32px !important;
+  margin: 0.6rem 0 0.8rem !important;
+}
+
+.article-list .article-subtitle,
+.article-list article p {
+  margin-bottom: 0 !important;
+}
+
+@media (max-width: 768px) {
+  .article-list .article-image img {
+    max-height: 220px !important;
+  }
+  .article-list article .article-title,
+  .article-list article h2 a {
+    font-size: 2.1rem !important;
+  }
+}
+
 
 
