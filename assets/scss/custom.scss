@@ -1154,3 +1154,26 @@ img.responsive,
   padding-right: 0 !important;
 }
 
+/* One category label only, like WIRED */
+.article-list .article-category a:not(:first-child),
+.article-list .article-category span:not(:first-child) {
+  display: none !important;
+}
+
+.article-list .article-category a::after,
+.article-list .article-category span::after {
+  content: none !important;
+  display: none !important;
+}
+
+/* Trim the empty space under each card */
+.article-list .article-details {
+  padding-bottom: 0 !important;
+}
+
+.article-list article footer {
+  margin: 0 !important;
+  padding: 0 !important;
+  min-height: 0 !important;
+}
+
