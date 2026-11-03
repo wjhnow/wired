@@ -1177,10 +1177,12 @@ img.responsive,
   min-height: 0 !important;
 }
 
-/* ===== WIRED-style article page ===== */
-.article-page .article-time,
-.article-page .article-time time,
-.article-page .article-meta {
+/* ===== WIRED-style article page (matched to real markup) ===== */
+
+/* Date strip: mono capitals */
+.article-meta,
+.article-meta .inline-meta,
+.article-meta time {
   font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace !important;
   font-size: 1.15rem !important;
   font-weight: 400 !important;
@@ -1190,15 +1192,17 @@ img.responsive,
   color: #111 !important;
 }
 
-.about-author-card,
-.author-card,
-.article-author,
-.author-box {
+/* Author box: flat, with a thin black line above */
+.article-footer .author-bio {
   background: transparent !important;
   border: 0 !important;
   border-top: 1px solid #111 !important;
   border-radius: 0 !important;
-  box-shadow: none !important;
   padding: 1.4rem 0 !important;
+}
+
+/* Hide the duplicate headline at the start of the post body */
+.article-content > h1:first-child {
+  display: none !important;
 }
 
