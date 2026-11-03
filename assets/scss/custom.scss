@@ -1261,3 +1261,72 @@ img.responsive,
   }
 }
 
+/* ===== WIRED-style black footer ===== */
+footer.site-footer {
+  background-color: #111 !important;
+  border-top: 3px solid #a8583c !important;
+  padding: 3.2rem 1.5rem 2.6rem !important;
+}
+
+/* Remove the white card; keep a thin divider under the link rows */
+footer.site-footer .live-updates {
+  background: transparent !important;
+  border: 0 !important;
+  border-bottom: 1px solid #3a3733 !important;
+  border-radius: 0 !important;
+  padding: 0 0 1.6rem !important;
+  margin: 0 auto 1.6rem !important;
+  max-width: 760px !important;
+}
+
+/* Link rows: mono capitals */
+footer.site-footer .live-updates a,
+footer.site-footer .live-updates strong {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace !important;
+  font-size: 1.15rem !important;
+  font-weight: 400 !important;
+  letter-spacing: 0.12em !important;
+  text-transform: uppercase !important;
+}
+
+footer.site-footer .live-updates a {
+  color: #cfc9bf !important;
+  text-decoration: none !important;
+}
+
+footer.site-footer .live-updates strong {
+  color: #fff !important;
+}
+
+footer.site-footer .live-updates .sep {
+  color: #5a554e !important;
+}
+
+footer.site-footer a:hover {
+  color: #fff !important;
+}
+
+/* Copyright, domain and credit line */
+footer.site-footer .copyright {
+  color: #8f8a82 !important;
+  font-size: 1.2rem !important;
+  font-weight: 400 !important;
+}
+
+footer.site-footer .footer-domain,
+footer.site-footer .footer-domain a {
+  color: #8f8a82 !important;
+  font-size: 1.2rem !important;
+}
+
+footer.site-footer .powerby {
+  color: #8f8a82 !important;
+  font-size: 1.1rem !important;
+}
+
+footer.site-footer .powerby a,
+footer.site-footer .powerby b {
+  color: #b5afa5 !important;
+}
+
+
