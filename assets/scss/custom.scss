@@ -1329,4 +1329,32 @@ footer.site-footer .powerby b {
   color: #b5afa5 !important;
 }
 
+/* Footer: full-width black band like the header */
+footer.site-footer {
+  width: 100vw !important;
+  max-width: 100vw !important;
+  margin-left: calc(50% - 50vw) !important;
+  margin-right: 0 !important;
+  margin-bottom: -4.5rem !important;
+}
+
+@media (max-width: 768px) {
+  footer.site-footer {
+    margin-bottom: -3rem !important;
+  }
+}
+
+/* Stops the full-width band from adding a sideways scrollbar */
+body {
+  overflow-x: clip;
+}
+
+/* One font for the three small lines */
+footer.site-footer .copyright,
+footer.site-footer .footer-domain,
+footer.site-footer .footer-domain a,
+footer.site-footer .powerby {
+  font-family: var(--sans-ui) !important;
+}
+
 
