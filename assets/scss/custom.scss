@@ -1115,14 +1115,24 @@ img.responsive,
   max-width: 100%;
   height: auto;
 }
-/* Article images: show each picture at its own shape, no cropping */
-.article-image img,
-.article-content img {
+/* ===== 4:5 portrait article heroes, square homepage cards ===== */
+
+/* Article hero: full portrait height, no cap */
+.article-header .article-image img {
   width: 100% !important;
   height: auto !important;
   max-height: none !important;
-  aspect-ratio: auto !important;
-  object-fit: contain !important;
-  object-position: center !important;
+  aspect-ratio: 4 / 5 !important;
+  object-fit: cover !important;
+  object-position: center center !important;
 }
 
+/* Homepage cards: square, cropped from the centre */
+.article-list .article-image img {
+  width: 100% !important;
+  height: auto !important;
+  max-height: none !important;
+  aspect-ratio: 1 / 1 !important;
+  object-fit: cover !important;
+  object-position: center center !important;
+}
