@@ -1237,3 +1237,27 @@ img.responsive,
   line-height: 1.5 !important;
   max-width: 640px !important;
 }
+
+/* Live bar: undo the category-link styling that leaks into it */
+.wjh-live-bar a.wjh-cat {
+  font-variant: normal !important;
+  border: 0 !important;
+  padding: 0 !important;
+}
+
+/* Keep it scrollable, but hide the scrollbar */
+.wjh-live-bar {
+  scrollbar-width: none;
+}
+.wjh-live-bar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Phone only: fade the right edge so it looks swipeable */
+@media (max-width: 600px) {
+  .wjh-live-bar {
+    -webkit-mask-image: linear-gradient(to right, #000 calc(100% - 28px), transparent);
+    mask-image: linear-gradient(to right, #000 calc(100% - 28px), transparent);
+  }
+}
+
