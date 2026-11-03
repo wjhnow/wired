@@ -1206,3 +1206,20 @@ img.responsive,
   display: none !important;
 }
 
+
+
+/* Line everything up on one left edge */
+.article-details,
+.article-content {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* Date strip: left-aligned like the rest */
+.article-meta,
+.article-meta .inline-meta {
+  justify-content: flex-start !important;
+  text-align: left !important;
+}
+
+
