@@ -1358,3 +1358,13 @@ footer.site-footer .powerby {
 }
 
 
+
+/* Footer on phones: no stray separators when links wrap */
+@media (max-width: 600px) {
+  footer.site-footer .footer-line .sep {
+    display: none !important;
+  }
+  footer.site-footer .footer-line {
+    gap: 0.6rem 1.4rem !important;
+  }
+}
