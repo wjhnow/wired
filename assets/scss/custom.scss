@@ -1115,3 +1115,14 @@ img.responsive,
   max-width: 100%;
   height: auto;
 }
+/* Article images: show each picture at its own shape, no cropping */
+.article-image img,
+.article-content img {
+  width: 100% !important;
+  height: auto !important;
+  max-height: none !important;
+  aspect-ratio: auto !important;
+  object-fit: contain !important;
+  object-position: center !important;
+}
+
