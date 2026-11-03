@@ -1177,3 +1177,28 @@ img.responsive,
   min-height: 0 !important;
 }
 
+/* ===== WIRED-style article page ===== */
+.article-page .article-time,
+.article-page .article-time time,
+.article-page .article-meta {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace !important;
+  font-size: 1.15rem !important;
+  font-weight: 400 !important;
+  font-variant: normal !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.12em !important;
+  color: #111 !important;
+}
+
+.about-author-card,
+.author-card,
+.article-author,
+.author-box {
+  background: transparent !important;
+  border: 0 !important;
+  border-top: 1px solid #111 !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  padding: 1.4rem 0 !important;
+}
+
