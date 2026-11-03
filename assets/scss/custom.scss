@@ -1368,3 +1368,11 @@ footer.site-footer .powerby {
     gap: 0.6rem 1.4rem !important;
   }
 }
+
+/* Homepage cards: remove the leftover category separator */
+.article-list .article-header .article-category a::after,
+.article-list .article-header .article-category a:not(:last-child)::after {
+  content: none !important;
+  display: none !important;
+}
+
