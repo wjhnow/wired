@@ -1223,3 +1223,8 @@ img.responsive,
 }
 
 
+/* Date strip: stick to the left edge (the theme lays it out as a column) */
+.article-meta {
+  align-items: flex-start !important;
+}
+
