@@ -131,8 +131,9 @@ body {
     line-height: 1;
 
     .logo-title {
-      font-family: "UnifrakturCook", "Libre Baskerville", serif !important;
-font-weight: 700 !important;
+      font-family: "Pirata One", "Libre Baskerville", serif !important;
+      font-size: 2.8rem !important;
+      font-weight: 400 !important;
       line-height: 1 !important;
       color: #fff !important;
       letter-spacing: 0.02em !important;
@@ -1282,7 +1283,6 @@ img.responsive,
   font-size: 1.6rem !important;
 }
 
-
 /* ==========================================================================
    Random full-width "featured" card on the homepage.
    Paste at the very END of custom.scss, after the homepage grid block.
@@ -1323,6 +1323,25 @@ img.responsive,
   /* Bigger title, like the old single-column cards */
   .article-list article.featured-wide .article-title,
   .article-list article.featured-wide h2 a {
-    font-size: 2.6rem !important;
+    font-size: 3.2rem !important;
   }
+}
+
+.pagination {
+  margin-top: 2.5rem !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  border-top: 1px solid #111 !important;
+}
+
+@media (max-width: 768px) {
+  .main-article > .article-header {
+    display: flex !important; flex-direction: column !important;
+  }
+  .main-article > .article-header .article-details { order: 1 !important; }
+  .main-article > .article-header .article-image { order: 2 !important; margin: 1.2rem 0 1.5rem !important; }
+}
+
+.article-byline {
+  text-transform: uppercase !important; letter-spacing: 0.08em !important; font-size: 1.2rem !important;
 }
